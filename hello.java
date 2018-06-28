@@ -4,4 +4,9 @@ public class Hello
 	{
 		System.out.println("Hello World");
 	}
+
+	public void add(int a,int b)
+	{
+		return (a+b);
+	}
 }
